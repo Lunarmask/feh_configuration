@@ -1,3 +1,5 @@
+# FEH KEYBIND CONFIG
+
 # unbind
 toggle_keep_vp
 save_image
@@ -9,6 +11,7 @@ render
 toggle_filenames
 toggle_fixed_geometry
 jump_random
+menu
 
 # menu bindings
 #menu_parent h Left
